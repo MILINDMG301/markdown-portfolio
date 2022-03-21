@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+List of my favourite things
+1. Books
+  * Kauntey
+  * Yayati
+2. Places
+ * Belgaum
+  * halasi
+  * Khanapur
+ * Sural
